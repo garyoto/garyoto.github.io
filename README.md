@@ -1,4 +1,5 @@
-garyoto.github.io
-=================
+# mapillary-explorer
 
-test description
+Live demo:
+
+http://tangrams.github.io/mapillary-explorer
